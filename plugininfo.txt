@@ -1,0 +1,252 @@
+<plugin>
+
+<playerstat>
+	<label>
+		EntrantLife</label>
+	<initialvalue>
+		40</initialvalue>
+	</playerstat>
+
+<deckzone>
+	<label>
+		Main Deck</label>
+	<gamezoneloadto>
+		Main Deck</gamezoneloadto>
+	<shuffle>
+		yes</shuffle>
+	</deckzone>
+
+<deckzone>
+	<label>
+		Spirit Deck</label>
+	<gamezoneloadto>
+		Spirit Deck</gamezoneloadto>
+	<shuffle>
+		no</shuffle>
+	</deckzone>
+
+<deckzone>
+	<label>
+		Token Deck</label>
+	<gamezoneloadto>
+		Token Deck</gamezoneloadto>
+	<shuffle>
+		no</shuffle>
+	</deckzone>
+<deckzone>
+	<label>
+		Entrant</label>
+	<shuffle>
+		no</shuffle>
+	</deckzone>
+
+<gamezone>
+	<label>
+		Hand</label>
+	<visibletoowner>
+		yes</visibletoowner>
+	<visibletoothers>
+		no</visibletoothers>
+	</gamezone>
+
+<gamezone>
+	<label>
+		Main Deck</label>
+	<visibletoowner>
+		no</visibletoowner>
+	<visibletoothers>
+		no</visibletoothers>
+	</gamezone>
+
+<gamezone>
+	<label>
+		Spirit Deck</label>
+	<visibletoowner>
+		yes</visibletoowner>
+	<visibletoothers>
+		yes</visibletoothers>
+	</gamezone>
+
+<gamezone>
+	<label>
+		Token Deck</label>
+	<visibletoowner>
+		yes</visibletoowner>
+	<visibletoothers>
+		yes</visibletoothers>
+	</gamezone>
+<gamezone>
+	<label>
+		Entrant</label>
+	<visibletoowner>
+		yes</visibletoowner>
+	<visibletoothers>
+		yes</visibletoothers>
+	</gamezone>
+
+<phase>
+	<label>
+		Turn Start</label>
+	</phase>
+
+<phase>
+	<label>
+		Main Turn</label>
+	</phase>
+
+<phase>
+	<label>
+		Turn End</label>
+	</phase>
+
+<generalfunction>
+	<label>
+		Play Entrant!</label>
+	<kind>
+		TRANSFERCARD</kind>
+	<sourceowner>
+		performer</sourceowner>
+	<sourcegamezone>
+		Entrant</sourcegamezone>
+	<sourceposition>
+		top</sourceposition>
+	<destinationowner>
+		table</destinationowner>
+	<destinationposition>
+		faceup</destinationposition>
+	<includeasbutton>
+		yes</includeasbutton>
+	</generalfunction>
+
+<generalfunction>
+	<label>
+		Draw One</label>
+	<kind>
+		DRAWCARD</kind>
+	<includeasbutton>
+		yes</includeasbutton>
+	</generalfunction>
+
+<generalfunction>
+	<label>
+		Flip Coin</label>
+	<kind>
+		FLIPCOIN</kind>
+	<includeasbutton>
+		yes</includeasbutton>
+	</generalfunction>
+
+<generalfunction>
+	<label>
+		Roll Six-Sided Dice</label>
+	<kind>
+		ROLLD6</kind>
+	<includeasbutton>
+		yes</includeasbutton>
+	</generalfunction>
+
+<generalfunction>
+	<label>
+		Put Random Card in Hand On Table</label>
+	<kind>
+		TRANSFERCARD</kind>
+	<sourceowner>
+		performer</sourceowner>
+	<sourcegamezone>
+		Hand</sourcegamezone>
+	<sourceposition>
+		random</sourceposition>
+	<destinationowner>
+		table</destinationowner>
+	<destinationposition>
+		faceup</destinationposition>
+	<includeasbutton>
+		yes</includeasbutton>
+	</generalfunction>
+
+<generalfunction>
+	<label>
+		Top card of deck to table FD</label>
+	<kind>
+		TRANSFERCARD</kind>
+	<sourceowner>
+		performer</sourceowner>
+	<sourcegamezone>
+		Main Deck</sourcegamezone>
+	<sourceposition>
+		top</sourceposition>
+	<destinationowner>
+		table</destinationowner>
+	<destinationposition>
+		facedown</destinationposition>
+	<includeasbutton>
+		yes</includeasbutton>
+	</generalfunction>
+
+<cardfunction>
+	<label>
+		Add 1 Damage</label>
+	<kind>
+		ADDCOUNTER</kind>
+	<color>
+		red</color>
+	</cardfunction>
+
+<cardfunction>
+	<label>
+		Remove 1 Damage</label>
+	<kind>
+		REMOVECOUNTER</kind>
+	<color>
+		red</color>
+	</cardfunction>
+
+<cardfunction>
+	<label>
+		Reset Damage</label>
+	<kind>
+		CLEARCARD</kind>
+	</cardfunction>
+<cardfunction>
+	<label>
+		Mark as Targeted</label>
+	<kind>
+		ADDCOUNTER</kind>
+	<color>
+		violet</color>
+	<PositionX>
+		1</PositionX>
+	</cardfunction>
+
+<cardfunction>
+	<label>
+		Untarget</label>
+	<kind>
+		REMOVECOUNTER</kind>
+	<color>
+		violet</color>
+	</cardfunction>
+
+<cardfunction>
+	<label>
+		Flip Over</label>
+	<kind>
+		TURNOVER</kind>
+	</cardfunction>
+
+
+<definition>
+	<kind>
+		GRIDSIZE</kind>
+	<value>
+		.001</value>
+	</definition>
+
+<definition>
+	<kind>
+		ISYOURFACEDOWNVISIBLE</kind>
+	<value>
+		no</value>
+	</definition>
+
+</plugin>
