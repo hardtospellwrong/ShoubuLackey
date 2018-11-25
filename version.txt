@@ -1,0 +1,9 @@
+<version>
+
+<lastupdateYYMMDD>181124</lastupdateYYMMDD>
+<quality>HIGH</quality>
+<versionurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/updatelist.txt</updateurl>
+<message>I just updated the plugin to include cool stuff.</message>
+
+</version>
