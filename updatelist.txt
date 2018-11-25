@@ -1,11 +1,10 @@
-Shoubu	11-25-18
+Shoubu	11-26-18
 plugins/shoubu/plugininfo.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/plugininfo.txt	318894
 plugins/shoubu/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardback.jpg	-77718
 plugins/shoubu/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/Spawned.jpg	9544
 plugins/shoubu/sets/carddata.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/CardData.txt	2576069
 plugins/shoubu/version.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/version.txt	31885
-plugins/shoubu/uninstall.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/uninstall.txt	9914
-
+plugins/shoubu/pluginpreferences.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/pluginpreferences.txt	214710
 CardImageURLs:
 phoenix_dawn/001.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/001.jpg
 phoenix_dawn/002.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/002.jpg
