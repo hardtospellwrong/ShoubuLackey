@@ -3,7 +3,7 @@ plugins/shoubu/plugininfo.txt	https://raw.githubusercontent.com/hardtospellwrong
 plugins/shoubu/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardback.jpg	-77718
 plugins/shoubu/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/Spawned.jpg	9544
 plugins/shoubu/sets/carddata.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/CardData.txt	2619495
-plugins/shoubu/version.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/version.txt	2619495
+plugins/shoubu/version.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/version.txt	35287
 
 cardgeneralurls:
 https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/
