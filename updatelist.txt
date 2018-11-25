@@ -4,7 +4,8 @@ plugins/shoubu/sets/setimages/general/cardback.jpg	https://raw.githubusercontent
 plugins/shoubu/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/Spawned.jpg	9544
 plugins/shoubu/sets/carddata.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/CardData.txt	2576069
 plugins/shoubu/version.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/version.txt	31885
-plugins/shoubu/pluginpreferences.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/pluginpreferences.txt  214710
+plugins/shoubu/pluginpreferences.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/pluginpreferences.txt	214710
+plugins/shoubu/uninstall.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/uninstall.txt	9913
 
 CardGeneralURLs:
 https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/
