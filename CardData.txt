@@ -1,18 +1,4 @@
-Name	Set	ImageFile	Type	Archetype	Life	Play Cost	Play Resolution	Effect 1 Type	Cost 1	Resolution 1	Effect 2 Type	Cost 2	Resolution 2	Card Color	Shrine Requirements
-R1	Targets	R1.jpg													
-R2	Targets	R2.jpg													
-R3	Targets	R3.jpg													
-R4	Targets	R4.jpg													
-R5	Targets	R5.jpg													
-R6	Targets	R6.jpg													
-R7	Targets	R7.jpg													
-B1	Targets	B1.jpg													
-B2	Targets	B2.jpg													
-B3	Targets	B3.jpg													
-B4	Targets	B4.jpg													
-B5	Targets	B5.jpg													
-B6	Targets	B6.jpg													
-B7	Targets	B7.jpg													
+Name	Set	ImageFile	Type	Archetype	Life	Play Cost	Play Resolution	Effect 1 Type	Cost 1	Resolution 1	Effect 2 Type	Cost 2	Resolution 2	Card Color	Shrine Requirements											
 Fighter	Phoenix_Dawn	001.jpg	Entrant		40		You may play cards in your empty Entrant Zone (even if your card isn't next to it).	Tech	Once per turn:	"Add a ""First Form"" card that is discarded or in your deck to your hand, then shuffle your deck."				Fighter	
 Caster	Phoenix_Dawn	002.jpg	Entrant		40		You can only play one Summon card from your hand each turn.	Tech	"Once per turn, discard a card from your hand to choose one of the following effects:"	" - Summon a ""Passerby Pixie"" Token.                        - Discard one ""Spell Shard"" card from your deck, then shuffle your deck."				Caster	
 Spiritcaller	Phoenix_Dawn	003.jpg	Entrant		40		"You have a face-up Spirit Deck with 20 or less ""Spirit"" cards. Treat Spirits with Life as Summons. Treat spirits without life as Items. 'Spirits added to your hand or deck return to your Spirit Deck instead."	Tech	"Once per turn, play a Spirit from your Spirit Deck over your summoned ""Shrine"" card by paying its On-Play cost."		Resp	"Once per turn, play a Spirit from your Spirit Deck over your summoned ""Shrine"" card by paying its On-Play cost."		Spiritcaller	
