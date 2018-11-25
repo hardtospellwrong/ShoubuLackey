@@ -35,7 +35,6 @@ phoenix_dawn/026.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuL
 phoenix_dawn/027.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/027.jpg
 phoenix_dawn/028.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/028.jpg
 phoenix_dawn/029.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/029.jpg
-
 phoenix_dawn/030.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/030.jpg
 phoenix_dawn/031.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/031.jpg
 phoenix_dawn/032.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/032.jpg
@@ -56,7 +55,6 @@ phoenix_dawn/046.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuL
 phoenix_dawn/047.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/047.jpg
 phoenix_dawn/048.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/048.jpg
 phoenix_dawn/049.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/049.jpg
-
 phoenix_dawn/050.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/050.jpg
 phoenix_dawn/051.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/051.jpg
 phoenix_dawn/052.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/052.jpg
@@ -77,7 +75,6 @@ phoenix_dawn/066.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuL
 phoenix_dawn/067.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/067.jpg
 phoenix_dawn/068.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/068.jpg
 phoenix_dawn/069.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/069.jpg
-
 phoenix_dawn/070.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/070.jpg
 phoenix_dawn/071.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/071.jpg
 phoenix_dawn/072.jpg  https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/cardimages/072.jpg
