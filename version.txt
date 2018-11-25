@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>181125</lastupdateYYMMDD>
+<lastupdateYYMMDD>181128</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/11-24-2018/updatelist.txt</updateurl>
