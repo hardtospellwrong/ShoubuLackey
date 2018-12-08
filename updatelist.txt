@@ -3,9 +3,9 @@ plugins/shoubu/plugininfo.txt	https://raw.githubusercontent.com/hardtospellwrong
 plugins/shoubu/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/Master/cardback.jpg	-77718
 plugins/shoubu/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/Master/Spawned.jpg	9544
 plugins/shoubu/sets/carddata.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/Master/CardData.txt	2576069
-plugins/shoubu/version.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/Master/version.txt	31885
-plugins/shoubu/pluginpreferences.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/Master/pluginpreferences.txt	214710
-plugins/shoubu/uninstall.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/Master/uninstall.txt	9913
-
+plugins/shoubu/version.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/Master/version.txt	29751
+plugins/shoubu/pluginpreferences.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/Master/pluginpreferences.txt	218981
+plugins/shoubu/uninstall.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/Master/uninstall.txt	9909
+plugins/shoubu/updatelist.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/Master/updatelist.txt	109495
 CardGeneralURLs:
 https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/Master/cardimages/
