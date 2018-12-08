@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>181206</lastupdateYYMMDD>
+<lastupdateYYMMDD>181208</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/updatelist.txt</updateurl>
 <message>Test Update! 12/8/2018</message>
