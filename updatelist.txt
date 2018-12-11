@@ -1,4 +1,4 @@
-Shoubu	12-08-18
+Shoubu	12-05-18
 plugins/shoubu/plugininfo.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/plugininfo.txt	318894
 plugins/shoubu/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/cardback.jpg	-77718
 plugins/shoubu/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/Spawned.jpg	9544
