@@ -101,3 +101,5 @@ Shadowseal	Phoenix_Dawn	099.jpg	Item	Shadowseal 				Resp	"Once while this card i
 Trading Information	Phoenix_Dawn	100.jpg	item					Resp	"Once while this card is revealed, activate this effect."	Reveal a card in your opponent's hand.	Resp	Once while this card is revealed with another copy of itself:	"Reveal your opponent's hand, and the top card of both decks."	Ninja	
 Participant	Phoenix_Dawn	101.jpg	Entrant		45		"Once after drawing your opening hand, you may place any   number of cards in your hand on the bottom of your deck (in any order). Draw as many cards as you returned."	tech	Once per turn:	Move this card to an empty zone next to itself.	Tech	"Once per turn, target a zone next to this."	Deal 6 to it.	Generic	
 Wanderer	Phoenix_Dawn	102.jpg	Summ		2	You can play this card (from your hand) as a response card.	"Roll a 6-sided dice. If the rolled value is 4 or greater, move this to an empty zone next to itself. Next, deal damage to a zone next to this equal to twice the rolled value."	resp	If your other card's activated effect would roll a dice:	Use a number from 1 to 3 as that effect's rolled value instead.				Generic	
+
+
