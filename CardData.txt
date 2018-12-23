@@ -1,4 +1,3 @@
-ok
 Name	Set	ImageFile	Type	Archetype	Life	Play Cost	Play Resolution	Effect 1 Type	Cost 1	Resolution 1	Effect 2 Type	Cost 2	Resolution 2	Card Color	Shrine Requirements
 Fighter	Phoenix_Dawn	001.jpg	Entrant		40		You may play cards in your empty Entrant Zone (even if your card isn't next to it).	Tech	Once per turn:	"Add a ""First Form"" card that is discarded or in your deck to your hand, then shuffle your deck."				Fighter	
 Caster	Phoenix_Dawn	002.jpg	Entrant		40		You can only play one Summon card from your hand each turn.	Tech	"Once per turn, discard a card from your hand to choose one of the following effects:"	" - Summon a ""Passerby Pixie"" Token.                        - Discard one ""Spell Shard"" card from your deck, then shuffle your deck."				Caster	
