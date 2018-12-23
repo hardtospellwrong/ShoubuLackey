@@ -3,6 +3,6 @@
 <lastupdateYYMMDD>181223</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/updatelist.txt</updateurl>
-<message>Final Initial update</message>
+<message>Art + Format Push</message>
 
 </version>
