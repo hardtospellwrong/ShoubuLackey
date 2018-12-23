@@ -1,0 +1,102 @@
+Name	Set	ImageFile	Card Color	Type	Archetype	Life
+Caster	Phoenix_Dawn	002.jpg	Caster	Entrant		40
+Spiritcaller	Phoenix_Dawn	003.jpg	Spiritcaller	Entrant		40
+Ninja	Phoenix_Dawn	004.jpg	Ninja	Entrant		40
+Smoke Grenade	Phoenix_Dawn	005.jpg	Ninja	Item	Shadowseal	
+Block	Phoenix_Dawn	006.jpg	Generic	Resp	First Form	
+Punch	Phoenix_Dawn	007.jpg	Generic	Tech	First Form	
+Dash	Phoenix_Dawn	008.jpg	Generic	Tech	First Form	
+Trenched Tortoise	Phoenix_Dawn	009.jpg	Generic	Summ	Mage's Familiar	15
+Kunai	Phoenix_Dawn	010.jpg	Generic	Resp	Shadowseal Preparation	
+Basic Slime	Phoenix_Dawn	011.jpg	Generic	Summ	Slime	1
+Mine	Phoenix_Dawn	012.jpg	Generic	Item		
+Tripwire	Phoenix_Dawn	013.jpg	Generic	Item		
+Misinformation	Phoenix_Dawn	014.jpg	Generic	Item		
+Escape Route	Phoenix_Dawn	015.jpg	Generic	Item		
+Wooden Buckler	Phoenix_Dawn	016.jpg	Generic	Item		
+Potion	Phoenix_Dawn	017.jpg	Generic	Item		
+Tamer Treats	Phoenix_Dawn	018.jpg	Generic	Tech		
+Counterpunch	Phoenix_Dawn	019.jpg	Generic	Resp		
+Stone Throw	Phoenix_Dawn	020.jpg	Generic	Resp		
+Backtrack	Phoenix_Dawn	021.jpg	Generic	Resp		
+Entraptured Pixie	Phoenix_Dawn	022.jpg	Generic	Summ		2
+Loyal Golem	Phoenix_Dawn	023.jpg	Generic	Summ		4
+Hunting Eagle	Phoenix_Dawn	024.jpg	Generic	Summ		1
+Childhood Guardian 	Phoenix_Dawn	025.jpg	Generic	Summ		2
+Lost Mole	Phoenix_Dawn	026.jpg	Generic	Summ		4
+Bomb Defusing Weasel	Phoenix_Dawn	027.jpg	Generic	Summ		4
+Wandering Lion	Phoenix_Dawn	028.jpg	Generic	Summ		6
+Honor	Phoenix_Dawn	029.jpg	Generic	Tech		
+Fated Phoenix Path	Phoenix_Dawn	030.jpg	Fighter	Summ	Second Form	4
+Closing In	Phoenix_Dawn	031.jpg	Fighter	Tech	Second Form	
+Falling Phoenix Feather	Phoenix_Dawn	032.jpg	Fighter	Tech	First Form	
+Situational Improvisation	Phoenix_Dawn	033.jpg	Fighter	Tech	Fourth Form	
+Infinite Phoenix Flame	Phoenix_Dawn	034.jpg	Fighter	Tech	Fourth Form	
+Dodge	Phoenix_Dawn	035.jpg	Fighter	Resp	Second Form	
+Flickering Phoenix Sparks	Phoenix_Dawn	036.jpg	Fighter	Resp	Second Form	
+Tornado Kick	Phoenix_Dawn	037.jpg	Fighter	Tech	Second Form	
+Neutralize	Phoenix_Dawn	038.jpg	Fighter	Resp	Third Form	
+Raised in the Wild	Phoenix_Dawn	039.jpg	Fighter	Tech	First Form	
+Blazing Phoenix Rise	Phoenix_Dawn	040.jpg	Fighter	Tech	Third Form	
+Defensive Stance	Phoenix_Dawn	041.jpg	Fighter	Summ		4
+Offensive Stance	Phoenix_Dawn	042.jpg	Fighter	Summ		2
+Quickcast	Phoenix_Dawn	043.jpg	Caster	Resp	Catalyzer	
+Apocalypsecast	Phoenix_Dawn	044.jpg	Caster	Tech	Catalyzer	
+Spellcast	Phoenix_Dawn	045.jpg	Caster	Tech	Catalyzer	
+Multicast	Phoenix_Dawn	046.jpg	Caster	Tech	Catalyzer	
+Prominent Pixie	Phoenix_Dawn	047.jpg	Caster	Summ	Mage's Familiar	6
+Curious Canary	Phoenix_Dawn	048.jpg	Caster	Summ	Mage's Familiar	1
+Glasses Garnered Gecko	Phoenix_Dawn	049.jpg	Caster	Summ	Mage's Familiar	4
+Emerald: Splash	Phoenix_Dawn	050.jpg	Caster	Tech	Spell Shard	
+Obsidian: Reflect	Phoenix_Dawn	051.jpg	Caster	Resp	Spell Shard	
+Diamond: Barrier	Phoenix_Dawn	052.jpg	Caster	Resp	Spell Shard	
+Ruby: Flame	Phoenix_Dawn	053.jpg	Caster	Tech	Spell Shard	
+Granite: Break	Phoenix_Dawn	054.jpg	Caster	Tech	Spell Shard	
+Sapphire: Refresh	Phoenix_Dawn	055.jpg	Caster	resp	Spell Shard	
+Topaz: Charge	Phoenix_Dawn	056.jpg	Caster	Tech	Spell Shard	
+Opal: Brilliance	Phoenix_Dawn	057.jpg	Caster	Tech	Spell Shard	
+Passerby Pixie	Phoenix_Dawn	058.jpg	Caster	Summ	Token	1
+Pixtea Party	Phoenix_Dawn	059.jpg	Caster	Resp		
+Flow	Phoenix_Dawn	060.jpg	Spiritcaller	Summ	Shrine	2
+Raging Rapids	Phoenix_Dawn	061.jpg	Spiritcaller	Summ	Shrine	1
+Life	Phoenix_Dawn	062.jpg	Spiritcaller	Summ	Shrine	2
+Illusion Trees	Phoenix_Dawn	063.jpg	Spiritcaller	Summ	Shrine	2
+Burn	Phoenix_Dawn	064.jpg	Spiritcaller	Summ	Shrine	2
+Active Volcano	Phoenix_Dawn	065.jpg	Spiritcaller	summ	Shrine	2
+Sacrificing Nature	Phoenix_Dawn	066.jpg	Spiritcaller	Spirit		
+Leviathan	Phoenix_Dawn	067.jpg	Spiritcaller	Spirit		15
+Seagull	Phoenix_Dawn	068.jpg	Spiritcaller	Spirit		3
+Hidden Serpent	Phoenix_Dawn	069.jpg	Spiritcaller	Spirit		6
+Pirahna	Phoenix_Dawn	070.jpg	Spiritcaller	Spirit		1
+Treant	Phoenix_Dawn	071.jpg	Spiritcaller	Spirit		12
+Boar	Phoenix_Dawn	072.jpg	Spiritcaller	Spirit		4
+Tree Sprites	Phoenix_Dawn	073.jpg	Spiritcaller	Spirit		4
+Fireflies	Phoenix_Dawn	074.jpg	Spiritcaller	Spirit		2
+Sulfur Vent Snail	Phoenix_Dawn	075.jpg	Spiritcaller	Spirit		2
+Firebird	Phoenix_Dawn	076.jpg	Spiritcaller	Spirit		3
+Unicorn	Phoenix_Dawn	077.jpg	Spiritcaller	Spirit		8
+Wyvern	Phoenix_Dawn	078.jpg	Spiritcaller	Spirit		6
+Flame Newt	Phoenix_Dawn	079.jpg	Spiritcaller	Spirit		2
+Scouting Crow	Phoenix_Dawn	080.jpg	Spiritcaller	Spirit		3
+Flood	Phoenix_Dawn	081.jpg	Spiritcaller	Spirit		
+Purifying Waters	Phoenix_Dawn	082.jpg	Spiritcaller	Spirit		
+Earthquake	Phoenix_Dawn	083.jpg	Spiritcaller	Spirit		
+Circle of Life	Phoenix_Dawn	084.jpg	Spiritcaller	Spirit		
+Eruption	Phoenix_Dawn	085.jpg	Spiritcaller	Spirit		
+Cumbersome Cannon	Phoenix_Dawn	086.jpg	Spiritcaller	Spirit		
+Prayers to the Land	Phoenix_Dawn	087.jpg	Spiritcaller	Tech		
+Shadowshift	Phoenix_Dawn	088.jpg	Ninja	Item	Shadowseal 	
+Shadowspear	Phoenix_Dawn	089.jpg	Ninja	Item	Shadowseal 	
+Frontline Scouting	Phoenix_Dawn	090.jpg	Ninja	Item	Shadowseal 	
+Armed Ferret	Phoenix_Dawn	091.jpg	Ninja	Summ	Shadowseal 	5
+Shadowflight Nightowl	Phoenix_Dawn	092.jpg	Ninja	Summ	Shadowseal 	2
+Poison Frog	Phoenix_Dawn	093.jpg	Ninja	Summ	Shadowseal 	3
+Shadowstep Direwolf	Phoenix_Dawn	094.jpg	Ninja	Summ	Shadowseal 	2
+Hastiness	Phoenix_Dawn	095.jpg	Ninja	Item	Shadowseal 	
+Shadowcontrol Batswarm	Phoenix_Dawn	096.jpg	Ninja	Summ	Shadowseal 	2
+Nightvision	Phoenix_Dawn	097.jpg	Ninja	Item	Shadowseal 	
+Summon Scroll	Phoenix_Dawn	098.jpg	Ninja	Item		
+Shadowseal	Phoenix_Dawn	099.jpg	Ninja	Item	Shadowseal 	
+Trading Information	Phoenix_Dawn	100.jpg	Ninja	item		
+Participant	Phoenix_Dawn	101.jpg	Generic	Entrant		45
+Wanderer	Phoenix_Dawn	102.jpg	Generic	Summ		2
