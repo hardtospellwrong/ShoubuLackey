@@ -1,103 +1,102 @@
-Name	Set	ImageFile	Type	Archetype	Life	Play Cost	Play Resolution	Effect 1 Type	Cost 1	Resolution 1	Effect 2 Type	Cost 2	Resolution 2	Card Color	Shrine Requirements
-Fighter	Phoenix_Dawn	001.jpg	Entrant		40		You may play cards in your empty Entrant Zone (even if your card isn't next to it).	Tech	Once per turn:	"Add a ""First Form"" card that is discarded or in your deck to your hand, then shuffle your deck."				Fighter	
-Caster	Phoenix_Dawn	002.jpg	Entrant		40		You can only play one Summon card from your hand each turn.	Tech	"Once per turn, discard a card from your hand to choose one of the following effects:"	" - Summon a ""Passerby Pixie"" Token.                        - Discard one ""Spell Shard"" card from your deck, then shuffle your deck."				Caster	
-Spiritcaller	Phoenix_Dawn	003.jpg	Entrant		40		"You have a face-up Spirit Deck with 20 or less ""Spirit"" cards. Treat Spirits with Life as Summons. Treat spirits without life as Items. 'Spirits added to your hand or deck return to your Spirit Deck instead."	Tech	"Once per turn, play a Spirit from your Spirit Deck over your summoned ""Shrine"" card by paying its On-Play cost."		Resp	"Once per turn, play a Spirit from your Spirit Deck over your summoned ""Shrine"" card by paying its On-Play cost."		Spiritcaller	
-Ninja	Phoenix_Dawn	004.jpg	Entrant		40		"Do not draw at the start of turns. You cannot look at your face-down cards. If a card would move to your hand, place it face-down next to your Entrant or your face-down card instead. If you have 6 or more face-down cards, you lose the game."	Resp	Once per turn:	Place the top two cards of your deck face-down in zones that are next to your Entrant or your face-down card. Do not look at them as you do.	Resp	"Once per turn, reveal two face-down cards. "	"If they match, you must discard them."	Ninja	
-Smoke Grenade	Phoenix_Dawn	005.jpg	Item	Shadowseal				Resp	"Once while this card is revealed, target a face-up Item or Summoned card."	"Flip it face-down, then discard this card."				Ninja	
-Block	Phoenix_Dawn	006.jpg	Resp	First Form		Target a zone.	"The preceding effect does 3 less damage to that zone. It does 9 less instead if that zone is next to, or contains, your Entrant."							Generic	
-Punch	Phoenix_Dawn	007.jpg	Tech	First Form		Target a zone.	"Deal 3 to that zone. If that zone is next to your Entrant, deal 6 more, or discard the card without life in it."							Generic	
-Dash	Phoenix_Dawn	008.jpg	Tech	First Form			Move your Entrant to an empty zone next to itself.	Tech	Rest this discarded card:	Move your Entrant to an empty zone next to itself.				Generic	
-Trenched Tortoise	Phoenix_Dawn	009.jpg	Summ	Mage's Familiar	15	Summon only next to your Entrant.		Tech	Once while this card is face-up:	Move this to an empty zone next to itself.				Generic	
-Kunai	Phoenix_Dawn	010.jpg	Resp	Shadowseal Preparation		Reveal up to two face-down cards on the field.	"Discard both, then if they matched, draw one."	Resp	"Once while this card is revealed, target another face-down card. "	"Discard it, then draw one."				Generic	
-Basic Slime	Phoenix_Dawn	011.jpg	Summ	Slime	1		"Add any number of ""Slime"" cards from your deck to your hand, then shuffle your deck."	Tech	"Once per turn, except the turn this was summoned:"	Move this to an empty zone next to itself.	Tech	"Immediately after this is discarded by an effect, that effect's controller can target their Entrant or Summoned card."	Remove 6 damage from it.	Generic	
-Mine	Phoenix_Dawn	012.jpg	Item			Place this card face-down in any zone except next to an Entrant.		Resp	"While this card is face-down: If a card is summoned next to it, you can flip this up and target its zone. "	"Negate any effects in that zone this turn, then discard any card in that zone."				Generic	
-Tripwire	Phoenix_Dawn	013.jpg	Item			Place this card face-down in any zone except next to an Entrant.		Resp	"While this card is face-down: if a card next to this would move, you can flip this up."	"Draw a card, then end the current turn."				Generic	
-Misinformation	Phoenix_Dawn	014.jpg	Item			Place this card face-down in any zone except next to an Entrant.		Resp	"While this card is face-down, you can flip this up to target a zone next to this."	"Discard this, then move your card in the targeted zone into the zone this card was in."				Generic	
-Escape Route	Phoenix_Dawn	015.jpg	Item			Place this card face-down in any zone except next to an Entrant.		Resp	"While this card is face-down, you can flip this up to target an adjacent zone."	Cards in that zone are unaffected by any preceding effects.				Generic	
-Wooden Buckler	Phoenix_Dawn	016.jpg	Item				Effects that would damage zones next to this do 5 less.							Generic	
-Potion	Phoenix_Dawn	017.jpg	Item			Play in any zone except next to your card with life.	You cannot play cards next to this.	Resp	"If either player's card with life is next to this, that player can target a zone next to this card."	"Remove all damage from that zone. If this effect removed  damage from a card controlled by this card's owner, that player draws 2. Discard this card."				Generic	
-Tamer Treats	Phoenix_Dawn	018.jpg	Tech				"Add one Summon from your deck to your hand. Your opponent can add a ""Tamer Treats"" from their deck to their hand by shuffling a card from their hand into their deck."	Tech						Generic	
-Counterpunch	Phoenix_Dawn	019.jpg	Resp			"When a card's effect is activated, but it is not being played from the hand, target its zone:"	Deal 9 to it.							Generic	
-Stone Throw	Phoenix_Dawn	020.jpg	Resp			Target a zone.	Deal 2 to it and the zones next to it.							Generic	
-Backtrack	Phoenix_Dawn	021.jpg	Resp			Target a zone.	"If your non-Entrant card is in that zone, return it to the hand, then negate any of your preceding effects."							Generic	
-Entraptured Pixie	Phoenix_Dawn	022.jpg	Summ		2	Summon only next to your Entrant.		Tech	Twice per turn:	Move this to an empty zone next to itself.	Tech	"Once per turn, target a rested card."	"Discard it, the top three cards of your deck, and this."	Generic	
-Loyal Golem	Phoenix_Dawn	023.jpg	Summ		4	You can play this card (from your hand) as a response card. Target a zone next to this.	Deal 4 to it.	Resp	"Twice per turn, target a zone next to this."	Preceding effects deal 4 less to that zone.	Tech	Once per turn:	"Deal 2 to this, then move it to any empty zone next to your face-up card."	Generic	
-Hunting Eagle	Phoenix_Dawn	024.jpg	Summ		1			Resp	Once per turn:	Move this to an empty zone next to itself.	Resp	"Once per turn, target a zone next to this."	Deal 3 to it.	Generic	
-Childhood Guardian 	Phoenix_Dawn	025.jpg	Summ		2		You cannot summon cards next to this. Your Entrant takes 3 less damage from effects while this card is next to it.	Tech	"Twice per turn, target a zone next to this, and resolve the appropriate effect:"	" - If that zone is empty, move this card into it.          - If that zone contains your card, move that card to an empty zone next to itself."				Generic	
-Lost Mole	Phoenix_Dawn	026.jpg	Summ		4			Tech	Once per turn:	Move this to an ampty zone next to itself.	Tech	"Even if this card is face-down: once per turn, when this card isn't next to an Entrant:"	Flip this card over.	Generic	
-Bomb Defusing Weasel	Phoenix_Dawn	027.jpg	Summ		4		Face-down cards next to this cannot be flipped up (but can still be revealed and looked at). 	Tech	Once per turn:	Move this to an ampty zone next to itself.	Tech	"If this card hasn't activated an on-field effect this turn, target a zone next to this."	Discard the card without life in that zone.	Generic	
-Wandering Lion	Phoenix_Dawn	028.jpg	Summ		6			Tech	"Once per turn, target a zone next to this and resolve the appropriate effect:"	" - If that zone is empty, move this card into it.          - If it contains a card with life, deal 9 to it.          - If it contains a card without life, discard that card."				Generic	
-Honor	Phoenix_Dawn	029.jpg	Tech				"Draw one. Your opponent can add an ""Honor"" from their deck to their hand by shuffling a card in their hand into their deck."							Generic	
-Fated Phoenix Path	Phoenix_Dawn	030.jpg	Summ	Second Form	4	"Summon in any zone except next to an Entrant by resting your ""First Form"" card that's been discarded for at least one turn."		Resp	"During your opponent's turn, if your Entrant is in the same row or column as this card:"	"Discard this card, then move your Entrant into the zone this card was in."				Fighter	
-Closing In	Phoenix_Dawn	031.jpg	Tech	Second Form		"Rest your ""First Form"" card that's been discarded for at least one turn. Target a zone next to your Entrant."	Deal 15 to it.							Fighter	
-Falling Phoenix Feather	Phoenix_Dawn	032.jpg	Tech	First Form		"Activate only as the first ""Phoenix"" card you play this turn."	"Add one ""Phoenix"" card from your deck to your hand."							Fighter	
-Situational Improvisation	Phoenix_Dawn	033.jpg	Tech	Fourth Form		"Rest your ""Third Form"" card that's been discarded for at least one turn."	Reveal the top 5 cards of both decks. Add 4 cards from among them to your hand and discard the rest. You may pay costs with your opponent's discard and resting piles this turn.							Fighter	
-Infinite Phoenix Flame	Phoenix_Dawn	034.jpg	Tech	Fourth Form		"Rest your ""Third Form"" card that's been discarded for at least one turn."	Move your Entrant to any empty zone. Add all of your rested cards to your hand.  End your turn.							Fighter	
-Dodge	Phoenix_Dawn	035.jpg	Resp	Second Form		"Rest your ""First Form"" card that's been discarded for at least one turn. Target your face-up card and an empty zone next to it."	Move your targeted card to that zone.							Fighter	
-Flickering Phoenix Sparks	Phoenix_Dawn	036.jpg	Resp	Second Form		"Rest your ""First Form"" card that's been discarded for at least one turn. Target a zone next to your face-up card."	Deal 9 to it.							Fighter	
-Tornado Kick	Phoenix_Dawn	037.jpg	Tech	Second Form		"Rest your ""First Form"" card that's been discarded for at least one turn."	"For each zone next to your Entrant, deal 9 to it, or discard the card without life in it."							Fighter	
-Neutralize	Phoenix_Dawn	038.jpg	Resp	Third Form		"Rest your ""Second Form"" card that's been discarded for at least one turn."	"Negate the preceding effect, and discard the non-Entrant card it is on."	Tech	"While this is discarded, discard a ""Second Form,"" ""Third Form,"" or ""Fourth Form"" card."	Add this discarded card to your hand.				Fighter	
-Raised in the Wild	Phoenix_Dawn	039.jpg	Tech	First Form		"Rest your ""Form"" card that's been discarded for at least one turn."	"Add one Summon from your deck to your hand, whose life is exactly double the rested ""Form"" card's step ( _#_ Form )."							Fighter	
-Blazing Phoenix Rise	Phoenix_Dawn	040.jpg	Tech	Third Form		"Rest your ""Second Form"" card that's been discarded for at least one turn, and choose a column or row containing your Entrant."	"For each zone in that line, deal 6 to it, or discard the card without life in it."							Fighter	
-Defensive Stance	Phoenix_Dawn	041.jpg	Summ		4	Play this only in your empty Entrant Zone.	Your effects deal 3 less damage. Damage to your Entrant is reduced by 3.	Resp	"Discard this to target your rested ""Form"" card without a damage dealing effect."	Add it to your hand.				Fighter	
-Offensive Stance	Phoenix_Dawn	042.jpg	Summ		2	Play this only in your empty Entrant Zone.	Your effects deal 3 more damage. Damage to your Entrant is increased by 3.	Resp	"Discard this to target your rested ""Form"" card with a damage dealing effect."	Add it to your hand.				Fighter	
-Quickcast	Phoenix_Dawn	043.jpg	Resp	Catalyzer		"Target a zone and rest your discarded ""Spell Shard"" card."								Caster	
-Apocalypsecast	Phoenix_Dawn	044.jpg	Tech	Catalyzer		"Target a zone three times, and rest six discarded ""Spell Shard"" cards. If a zone is targeted more than once, treat it as that many separate targets."								Caster	
-Spellcast	Phoenix_Dawn	045.jpg	Tech	Catalyzer		"Target a zone and rest up to three discarded ""Spell Shard"" cards."								Caster	
-Multicast	Phoenix_Dawn	046.jpg	Tech	Catalyzer		"Target two zones and rest up to two discarded ""Spell Shard"" cards."								Caster	
-Prominent Pixie	Phoenix_Dawn	047.jpg	Summ	Mage's Familiar	6			Tech	Once per turn:	Move this to an empty zone next to itself.	Tech	"Once per turn, rest up to 2 discarded ""Spell Shard"" cards, then target a zone next to this."		Caster	
-Curious Canary	Phoenix_Dawn	048.jpg	Summ	Mage's Familiar	1	"Target your discarded ""Spell Shard"" card."	Add it to your hand. 	Resp	Discard this card from your hand:	"Discard up to 2 of your rested ""Spell Shard"" cards."				Caster	
-Glasses Garnered Gecko	Phoenix_Dawn	049.jpg	Summ	Mage's Familiar	4		"Add one ""Mage's Familiar"" or ""Spell Shard"" card from your deck to your hand, then shuffle your deck. "	Tech	"If this card is added to your hand, except by drawing it, you must discard it:"	Discard the top three cards of your deck.				Caster	
-Emerald: Splash	Phoenix_Dawn	050.jpg	Tech	Spell Shard		Return your summoned card to your hand.	"Summon a ""Passerby Pixie"" token, then summon another one, then summon another one."	Resp	An effect whose cost rests this discarded card has the    following added to its resolution:                          - Deal 3 to any zone next to this effect's targets.					Caster	
-Obsidian: Reflect	Phoenix_Dawn	051.jpg	Resp	Spell Shard		Return your summoned card to your hand.	Effects that would damage your Entrant this turn do 3 less.	Resp	An effect whose cost rests this discarded card has the    following added to itsresolution:                          - Effects that would damage your Entrant this turn do 9 less.					Caster	
-Diamond: Barrier	Phoenix_Dawn	052.jpg	Resp	Spell Shard		Discard your summoned card.	Negate the preceding effect.	Resp	"While this card is rested, you can shuffle it into your deck."	Negate the preceding effect.				Caster	
-Ruby: Flame	Phoenix_Dawn	053.jpg	Tech	Spell Shard		Return your summoned card to your hand.	Deal 3 to the opponent's Entrant.	Resp	An effect whose cost rests this discarded card has the    following added to itsresolution:                          - Your opponent discards 2 cards from their hand.					Caster	
-Granite: Break	Phoenix_Dawn	054.jpg	Tech	Spell Shard		Return your summoned card to your hand and target a zone.	Deal 3 to any summoned card in that zone.	Resp	"An effect whose cost rests this discarded card has the    following added to itsresolution:                          - Deal 6 to this effect's targets, then discard the cards without life in them."					Caster	
-Sapphire: Refresh	Phoenix_Dawn	055.jpg	resp	Spell Shard		Return your summoned card to your hand.	"Summon a ""Passerby Pixie"" token, then remove 6 damage from your Entrant."	Resp	"An effect whose cost rests this discarded card has the    following added to itsresolution:                          - Add your rested ""Sapphire: Refresh"" to your hand."					Caster	
-Topaz: Charge	Phoenix_Dawn	056.jpg	Tech	Spell Shard		Return your summoned card to your hand.	"Add one ""Catalyzer"" card from your deck to your hand, then shuffle your deck."	Resp	"An effect whose cost rests this discarded card has the    following added to itsresolution:                          - Add one ""Spell Shard"" card from your deck to your hand."					Caster	
-Opal: Brilliance	Phoenix_Dawn	057.jpg	Tech	Spell Shard		Discard your summoned card.	"Discard a card, then draw 2."	Resp	"An effect whose cost rests this discarded card has the    following added to itsresolution:                          - Add one discarded ""Catalyzer"" or ""Mage's Familiar"" card to your hand."					Caster	
-Passerby Pixie	Phoenix_Dawn	058.jpg	Summ	Token	1	Keep this separate from your deck. Summon only with another card's effect.	"If this card leaves the field, remove it from the game entirely. It can still be summoned with another card's effect again."	Tech	Once per turn:	"Discard your rested ""Spell Shard"" card, then discard this card."				Caster	
-Pixtea Party	Phoenix_Dawn	059.jpg	Resp				"Cards with ""Pixie"" in their name cannot be discarded this turn, and their Life cannot be reduced below 1.  "							Caster	
-Flow	Phoenix_Dawn	060.jpg	Summ	Shrine	2	Up to 15 of this card can be in a deck. 		Tech	Any player with a face-up card next to this can discard a card from their hand:	"Return this to the hand, then the activating player shuffles one of their discarded cards into their deck."				Spiritcaller	
-Raging Rapids	Phoenix_Dawn	061.jpg	Summ	Shrine	1		"Treat this summoned card as ""Flow""."	Tech	Any player with a face-up card next to this can discard a card from their hand:	"Return this to the hand, then the activating player shuffles one of their discarded cards into their deck."	Tech	Once per turn:	"Add one ""Raging Rapids"" from your deck to your hand."	Spiritcaller	
-Life	Phoenix_Dawn	062.jpg	Summ	Shrine	2	Up to 15 of this card can be in a deck. 		Tech	Any player with a face-up card next to this can discard a card from their hand:	"Return this to the hand, then the activating player  removes 3 damage from its owner's Entrant."				Spiritcaller	
-Illusion Trees	Phoenix_Dawn	063.jpg	Summ	Shrine	2		"Treat this summoned card as ""Life"". "	Tech	Any player with a face-up card next to this can discard a card from their hand:	"Return this to the hand, then the activating player  removes 3 damage from its owner's Entrant."	Resp	"Once per turn, if a zone next to this is targeted, target an empty zone next to this."	Move any card in the first target to the empty zone.	Spiritcaller	
-Burn	Phoenix_Dawn	064.jpg	Summ	Shrine	2	Up to 15 of this card can be in a deck. 		Tech	Any player with a face-up card next to this can discard a card from their hand:	"Return this to the hand, then the activating player  deals 3 to their opponent's Entrant."				Spiritcaller	
-Active Volcano	Phoenix_Dawn	065.jpg	summ	Shrine	2		"Treat this summoned card as ""Burn"". "	Tech	Any player with a face-up card next to this can discard a card from their hand:	"Return this to the hand, then the activating player  deals 3 to their opponent's Entrant."	Resp	You must activate this effect once at the start of your turn:	"Deal 1 to this, and 2 to any zone next to it."	Spiritcaller	
-Sacrificing Nature	Phoenix_Dawn	066.jpg	Spirit			"Play only if your summoned ""Shrine"" cards include:           [1 ""Shrine"" card]."		Resp	Twice per turn:	Your Entrant takes 4 less damage from preceding effects.				Spiritcaller	X
-Leviathan	Phoenix_Dawn	067.jpg	Spirit		15	"Play only if your summoned ""Shrine"" cards include:           [4 ""Flow""] [2 ""Life""] [2 other ""Shrine"" cards]."	"This card is also treated as a ""Shrine"" card named ""Flow""."	Tech	"Once per turn, play a Spirit from your Spirit Deck (whose On-Play cost can be paid) on this card."		Tech	Once per turn:	Move this card to an empty zone next to itself.	Spiritcaller	BBBBGGXX
-Seagull	Phoenix_Dawn	068.jpg	Spirit		3	"Play only on your summoned ""Flow"" if your summoned ""Shrine"" cards include: [3 ""Flow""] [2 other ""Shrine"" cards]."		Tech	Once per turn:	Move this card to an empty zone next to itself.	Resp	"Once per turn, target a zone next to this."	Negate the effects of any card in that zone this turn.	Spiritcaller	BBBXX
-Hidden Serpent	Phoenix_Dawn	069.jpg	Spirit		6	"Play only on your summoned ""Flow"" if your summoned ""Shrine"" cards include: [3 ""Flow""] [3 other ""Shrine"" cards]."		Tech	"Once per turn, target a summoned ""Flow""."	"Move this card on top of it, then deal 5 to this card's zone and the zones next to it."	Tech	"Once per turn, even if this card is under another card:"	"Switch it with a ""Flow"" under it or above it."	Spiritcaller	BBBXXX
-Pirahna	Phoenix_Dawn	070.jpg	Spirit		1	"Play only on your summoned ""Flow"" if your summoned ""Shrine"" cards include: [1 ""Flow""]."		Resp	"Once per turn, target a sumoned ""Flow""."	"Move this card on top of it, then return a discarded ""Piranha"" to the Spirit deck."	Tech	"Once per turn, target a zone next to this."	Deal 4 to it.	Spiritcaller	B
-Treant	Phoenix_Dawn	071.jpg	Spirit		12	"Play only on your summoned ""Flow"" if your summoned ""Shrine"" cards include: [5 ""Life""]."		Tech	"Once per turn, except the turn this was summoned:"	"Move this card to an empty zone next to itself, then remove 3 damage from this card."	Tech	"Once per turn, discard any number of ""Shrine"" cards from your hand or field and target a zone next to this."	Deal 4 to it for each of those discarded cards.	Spiritcaller	GGGGG
-Boar	Phoenix_Dawn	072.jpg	Spirit		4	"Play only on your summoned ""Flow"" if your summoned ""Shrine"" cards include: [3 ""Life""] [2 other ""Shrine"" cards]."		Tech	"Once per turn, target any zone in this card's row or column."	"Deal 9 to that zone. If a card was discarded by this effect, move this card to the targeted zone."				Spiritcaller	GGGXX
-Tree Sprites	Phoenix_Dawn	073.jpg	Spirit		4	"Play only on your summoned ""Life"" if your summoned ""Shrine"" cards include: [1 ""Life""] [1 other ""Shrine"" cards]."	"This card is also treated as a ""Shrine"" card named ""Life""."	Tech	"Once per turn, except the turn this was summoned:"	Move this card to an empty zone next to itself.				Spiritcaller	GX
-Fireflies	Phoenix_Dawn	074.jpg	Spirit		2	"Play only if your summoned ""Shrine"" cards include:           [1 ""Burn""] [1 ""Life""] [2 other ""Shrine"" cards]."		Tech	"Once per turn, target a face-down card."	"Discard it, move this to the zone it was in, and deal 2 to any cards next to this."				Spiritcaller	RGxx
-Sulfur Vent Snail	Phoenix_Dawn	075.jpg	Spirit		2	"Play only on your summoned ""Burn"" if your summoned ""Shrine"" cards include: [2 ""Burn""] [1 ""Flow""] [2 other ""Shrine"" cards]."	"Switch this with the ""Shrine"" card it is played on top."	Tech	"Once per turn, target a zone next to this without an Entrant."	"Move this card to it. If any cards are in the targeted zone, move this card under them."	Resp	You must activate this effect at the start of each turn if it is under a card.	Discard the top card in its zone.	Spiritcaller	RRBXX
-Firebird	Phoenix_Dawn	076.jpg	Spirit		3	"Play only if your summoned ""Shrine"" cards include:           [3 ""Burn""]."	"This rested card is treated as being in your Spirit Deck. This card is treated as a ""Shrine"" card named ""Burn""."	Resp	"Once per turn, while this is discarded, rest your discarded ""Burn""."	Deal 1 to the opponent's Entrant.	Tech	Rest 2 discarded burn.	Deal 3 to a zone next to this.	Spiritcaller	RRR
-Unicorn	Phoenix_Dawn	077.jpg	Spirit		8	"Play only if your summoned ""Shrine"" cards include:           [2 ""Burn""] [2 ""Flow""][2 ""Life""]."	Remove 10 damage from your Entrant.	Tech	"Once per turn, target a zone that has at least 2 of your  summoned ""Shrine"" cards next to it with different names."	Move this card to it.	Tech	"Once per turn, target a zone that has at least 3 of your  summoned ""Shrine"" cards next to it that have different names."	Deal 30 to it.	Spiritcaller	RRBBGG
-Wyvern	Phoenix_Dawn	078.jpg	Spirit		6	"Play only if your summoned ""Shrine"" cards include:           [2 ""Burn""] [2 other ""Shrine"" cards]."		Tech	Twice per turn:	Move this card to an empty zone next to itself.	Tech	"Once per turn, discard any number of ""Burn"" from your hand or field and target a different zone next to this for each discarded ""Burn""."	Deal 6 to each targeted zone.	Spiritcaller	RRXX
-Flame Newt	Phoenix_Dawn	079.jpg	Spirit		2	"Play only if your summoned ""Shrine"" cards include:           [3 ""Burn""]."	"This card is also treated as being named ""Burn"" (but it is not a ""Shrine"" card)."	Tech	Once per turn:	Move this card to an empty zone next to itself.	Tech	Once per turn:	Deal 3 to the zones next to it.	Spiritcaller	RRR
-Scouting Crow	Phoenix_Dawn	080.jpg	Spirit		3	"Play only if your summoned ""Shrine"" cards include:           [2 ""Shrine"" cards]."	"If this leaves the field, add it to the Spirit deck."	Tech	Once per turn:	Move this card to an empty zone next to itself.	Tech	"If there are no ""Shrine"" cards in this card's column or row:"	"Add this to the Spirit Deck, then activate a ""Shrine"" card from your deck in the zone this card was in."	Spiritcaller	XX
-Flood	Phoenix_Dawn	081.jpg	Spirit			"Play only if your summoned ""Shrine"" cards include:           [2 ""Flow""] [1 other ""Shrine"" card]. "	"For each ""Flow"" under your card: discard a card next it, then move that ""Flow"" into the now-empty zone. Discard this."							Spiritcaller	BBX
-Purifying Waters	Phoenix_Dawn	082.jpg	Spirit			"Play only on your summoned ""Flow"" if your summoned ""Shrine"" cards include: [2 ""Flow""]. "	"Negate any preceding effects in that zone, then discard this card."							Spiritcaller	BB
-Earthquake	Phoenix_Dawn	083.jpg	Spirit			"Play only during your turn if your summoned ""Shrine"" cards include: [5 ""Life""]. Target up to 3 of your summoned ""Life""."	"Deal 4 to any zones next to a targeted ""Life"", or discard the cards without life in those zones. Discard this."							Spiritcaller	GGGGG
-Circle of Life	Phoenix_Dawn	084.jpg	Spirit			"Play only on your summoned ""Life"" if your summoned ""Shrine"" cards include: [1 ""Life""] [2 other ""Shrine"" card]."	"Add up to 3 discarded ""Shrine"" cards to your hand."							Spiritcaller	GXX
-Eruption	Phoenix_Dawn	085.jpg	Spirit			"Play only on your summoned ""Burn"" if your summoned ""Shrine"" cards include: [3 ""Burn""]. Target a zone next to this."	"Discard any non-Entrant cards in that zone, then activate a discarded ""Burn"" in that empty zone. Discard this."							Spiritcaller	RRR
-Cumbersome Cannon	Phoenix_Dawn	086.jpg	Spirit			"Play only on your summoned ""Burn"" if your summoned ""Shrine"" cards include: [3 ""Burn""] [1 other ""Shrine"" card]. Target a zone."	Deal 9 to it.	Tech	Deal 9 to your Entrant.	Discard this.				Spiritcaller	RRRX
-Prayers to the Land	Phoenix_Dawn	087.jpg	Tech			Target your summoned Spirit.	"Add one ""Shrine"" card from your deck to your hand whose name is listed in the targeted Spirit's On-Play cost, then return that spirit to your Spirit deck."							Spiritcaller	
-Shadowshift	Phoenix_Dawn	088.jpg	Item	Shadowseal 				Resp	"Once while this card is revealed, target another revealed card."	"Move this to an empty zone next to itself, then move the  targeted card to an empty zone next to itself."	Resp	"Rest all of your discarded ""Shadowshift"" cards to choose your revealed response card: add its on-play Cost and Resolution to this effect, then discard it."		Ninja	
-Shadowspear	Phoenix_Dawn	089.jpg	Item	Shadowseal 				Resp	Once while this card is revealed with another copy of itself:	"Deal 6 to each zone in a row or column containing 2 or more revealed ""Shadowspear"" cards, and discard any cards without life in those zones."	Tech	"Rest all of your discarded ""Shadowspear"" cards to reveal your face-down card. If it is a Technique, add its on-play Cost and Resolution to this effect, then discard it."		Ninja	
-Frontline Scouting	Phoenix_Dawn	090.jpg	Item	Shadowseal 				Resp	Once while this card is revealed with another copy of itself:	"Flip this card face-up, and it cannot be discarded during this precession."	Tech	"Once per turn, reveal two face-down cards. "	"Discard this, then if the revealed cards match, you must discard them."	Ninja	
-Armed Ferret	Phoenix_Dawn	091.jpg	Summ	Shadowseal 	5			Resp	Once while this card is revealed with another copy of itself:	"Flip this card face-up, and it cannot be discarded during this precession."	Tech	"Once per turn, discard your summoned card except this one."	"Add one ""Shadowseal"" card from your deck to your hand, then flip this face-down."	Ninja	
-Shadowflight Nightowl	Phoenix_Dawn	092.jpg	Summ	Shadowseal 	2			Resp	Once while this card is revealed with another copy of itself:	"Flip this card face-up, and it cannot be discarded during this precession."	Tech	"Once per turn, reveal 2 face-down cards and target any zone."	"If those revealed cards match, discard them. If this effect discarded them, deal 3 to the targeted zone and discard any cards without life in it."	Ninja	
-Poison Frog	Phoenix_Dawn	093.jpg	Summ	Shadowseal 	3			Resp	"Once while this card is revealed, discard another revealed card."	Deal 3 to your opponent's Entrant.	Tech			Ninja	
-Shadowstep Direwolf	Phoenix_Dawn	094.jpg	Summ	Shadowseal 	2			Resp	Once while this card is revealed with another copy of itself:	"Flip this card face-up, and it cannot be discarded during this precession."	Tech	"Twice per turn, target a zone next to this and resolve the appropriate effect:"	" - If that zone is empty, move this card into it.          - If it contains a card with life, deal 3 to it. "	Ninja	
-Hastiness	Phoenix_Dawn	095.jpg	Item	Shadowseal 				Resp	Once while this card is revealed with another copy of itself:	"Flip this card face-up, and it cannot be discarded during this precession."	Tech	Discard this card:	Discard a card without life on the field.	Ninja	
-Shadowcontrol Batswarm	Phoenix_Dawn	096.jpg	Summ	Shadowseal 	2			Resp	"Once while this card is revealed, declare a card name."	This card's name is treated as that declared name during this precession.	Tech	Rest this discarded card to reveal 2 face-down cards.	"If they match, discard them."	Ninja	
-Nightvision	Phoenix_Dawn	097.jpg	Item	Shadowseal 				Resp	"Once while this card is revealed, reveal 2 face-down cards."	"If they match, discard them."	Tech	"Rest all of your discarded ""Nightvision"" cards to reveal your face-down card. If it is an item, add its on-play Cost and Resolution to this effect, and flip it face-up."		Ninja	
-Summon Scroll	Phoenix_Dawn	098.jpg	Item					Resp	Once while this card is revealed:	"Add one ""Shadowseal "" Summon from your deck to your hand, then discard it."	Resp	"Rest all of your discarded ""Summon Scroll"" cards to reveal your face-down card. If it is a Summon, add its on-play Cost and Resolution to this effect, and flip it face-up."		Ninja	
-Shadowseal	Phoenix_Dawn	099.jpg	Item	Shadowseal 				Resp	"Once while this card is revealed, target a non-Entrant card with 3 or more face-down cards next to it."	"Discard it, and discard this."				Ninja	
-Trading Information	Phoenix_Dawn	100.jpg	item					Resp	"Once while this card is revealed, activate this effect."	Reveal a card in your opponent's hand.	Resp	Once while this card is revealed with another copy of itself:	"Reveal your opponent's hand, and the top card of both decks."	Ninja	
-Participant	Phoenix_Dawn	101.jpg	Entrant		45		"Once after drawing your opening hand, you may place any   number of cards in your hand on the bottom of your deck (in any order). Draw as many cards as you returned."	tech	Once per turn:	Move this card to an empty zone next to itself.	Tech	"Once per turn, target a zone next to this."	Deal 6 to it.	Generic	
-Wanderer	Phoenix_Dawn	102.jpg	Summ		2	You can play this card (from your hand) as a response card.	"Roll a 6-sided dice. If the rolled value is 4 or greater, move this to an empty zone next to itself. Next, deal damage to a zone next to this equal to twice the rolled value."	resp	If your other card's activated effect would roll a dice:	Use a number from 1 to 3 as that effect's rolled value instead.				Generic	
+Name	Set	ImageFile	Card Color	Type	Archetype	Life
+Caster	Phoenix_Dawn	002.jpg	Caster	Entrant		40
+Spiritcaller	Phoenix_Dawn	003.jpg	Spiritcaller	Entrant		40
+Ninja	Phoenix_Dawn	004.jpg	Ninja	Entrant		40
+Smoke Grenade	Phoenix_Dawn	005.jpg	Ninja	Item	Shadowseal	
+Block	Phoenix_Dawn	006.jpg	Generic	Resp	First Form	
+Punch	Phoenix_Dawn	007.jpg	Generic	Tech	First Form	
+Dash	Phoenix_Dawn	008.jpg	Generic	Tech	First Form	
+Trenched Tortoise	Phoenix_Dawn	009.jpg	Generic	Summ	Mage's Familiar	15
+Kunai	Phoenix_Dawn	010.jpg	Generic	Resp	Shadowseal Preparation	
+Basic Slime	Phoenix_Dawn	011.jpg	Generic	Summ	Slime	1
+Mine	Phoenix_Dawn	012.jpg	Generic	Item		
+Tripwire	Phoenix_Dawn	013.jpg	Generic	Item		
+Misinformation	Phoenix_Dawn	014.jpg	Generic	Item		
+Escape Route	Phoenix_Dawn	015.jpg	Generic	Item		
+Wooden Buckler	Phoenix_Dawn	016.jpg	Generic	Item		
+Potion	Phoenix_Dawn	017.jpg	Generic	Item		
+Tamer Treats	Phoenix_Dawn	018.jpg	Generic	Tech		
+Counterpunch	Phoenix_Dawn	019.jpg	Generic	Resp		
+Stone Throw	Phoenix_Dawn	020.jpg	Generic	Resp		
+Backtrack	Phoenix_Dawn	021.jpg	Generic	Resp		
+Entraptured Pixie	Phoenix_Dawn	022.jpg	Generic	Summ		2
+Loyal Golem	Phoenix_Dawn	023.jpg	Generic	Summ		4
+Hunting Eagle	Phoenix_Dawn	024.jpg	Generic	Summ		1
+Childhood Guardian 	Phoenix_Dawn	025.jpg	Generic	Summ		2
+Lost Mole	Phoenix_Dawn	026.jpg	Generic	Summ		4
+Bomb Defusing Weasel	Phoenix_Dawn	027.jpg	Generic	Summ		4
+Wandering Lion	Phoenix_Dawn	028.jpg	Generic	Summ		6
+Honor	Phoenix_Dawn	029.jpg	Generic	Tech		
+Fated Phoenix Path	Phoenix_Dawn	030.jpg	Fighter	Summ	Second Form	4
+Closing In	Phoenix_Dawn	031.jpg	Fighter	Tech	Second Form	
+Falling Phoenix Feather	Phoenix_Dawn	032.jpg	Fighter	Tech	First Form	
+Situational Improvisation	Phoenix_Dawn	033.jpg	Fighter	Tech	Fourth Form	
+Infinite Phoenix Flame	Phoenix_Dawn	034.jpg	Fighter	Tech	Fourth Form	
+Dodge	Phoenix_Dawn	035.jpg	Fighter	Resp	Second Form	
+Flickering Phoenix Sparks	Phoenix_Dawn	036.jpg	Fighter	Resp	Second Form	
+Tornado Kick	Phoenix_Dawn	037.jpg	Fighter	Tech	Second Form	
+Neutralize	Phoenix_Dawn	038.jpg	Fighter	Resp	Third Form	
+Raised in the Wild	Phoenix_Dawn	039.jpg	Fighter	Tech	First Form	
+Blazing Phoenix Rise	Phoenix_Dawn	040.jpg	Fighter	Tech	Third Form	
+Defensive Stance	Phoenix_Dawn	041.jpg	Fighter	Summ		4
+Offensive Stance	Phoenix_Dawn	042.jpg	Fighter	Summ		2
+Quickcast	Phoenix_Dawn	043.jpg	Caster	Resp	Catalyzer	
+Apocalypsecast	Phoenix_Dawn	044.jpg	Caster	Tech	Catalyzer	
+Spellcast	Phoenix_Dawn	045.jpg	Caster	Tech	Catalyzer	
+Multicast	Phoenix_Dawn	046.jpg	Caster	Tech	Catalyzer	
+Prominent Pixie	Phoenix_Dawn	047.jpg	Caster	Summ	Mage's Familiar	6
+Curious Canary	Phoenix_Dawn	048.jpg	Caster	Summ	Mage's Familiar	1
+Glasses Garnered Gecko	Phoenix_Dawn	049.jpg	Caster	Summ	Mage's Familiar	4
+Emerald: Splash	Phoenix_Dawn	050.jpg	Caster	Tech	Spell Shard	
+Obsidian: Reflect	Phoenix_Dawn	051.jpg	Caster	Resp	Spell Shard	
+Diamond: Barrier	Phoenix_Dawn	052.jpg	Caster	Resp	Spell Shard	
+Ruby: Flame	Phoenix_Dawn	053.jpg	Caster	Tech	Spell Shard	
+Granite: Break	Phoenix_Dawn	054.jpg	Caster	Tech	Spell Shard	
+Sapphire: Refresh	Phoenix_Dawn	055.jpg	Caster	resp	Spell Shard	
+Topaz: Charge	Phoenix_Dawn	056.jpg	Caster	Tech	Spell Shard	
+Opal: Brilliance	Phoenix_Dawn	057.jpg	Caster	Tech	Spell Shard	
+Passerby Pixie	Phoenix_Dawn	058.jpg	Caster	Summ	Token	1
+Pixtea Party	Phoenix_Dawn	059.jpg	Caster	Resp		
+Flow	Phoenix_Dawn	060.jpg	Spiritcaller	Summ	Shrine	2
+Raging Rapids	Phoenix_Dawn	061.jpg	Spiritcaller	Summ	Shrine	1
+Life	Phoenix_Dawn	062.jpg	Spiritcaller	Summ	Shrine	2
+Illusion Trees	Phoenix_Dawn	063.jpg	Spiritcaller	Summ	Shrine	2
+Burn	Phoenix_Dawn	064.jpg	Spiritcaller	Summ	Shrine	2
+Active Volcano	Phoenix_Dawn	065.jpg	Spiritcaller	summ	Shrine	2
+Sacrificing Nature	Phoenix_Dawn	066.jpg	Spiritcaller	Spirit		
+Leviathan	Phoenix_Dawn	067.jpg	Spiritcaller	Spirit		15
+Seagull	Phoenix_Dawn	068.jpg	Spiritcaller	Spirit		3
+Hidden Serpent	Phoenix_Dawn	069.jpg	Spiritcaller	Spirit		6
+Pirahna	Phoenix_Dawn	070.jpg	Spiritcaller	Spirit		1
+Treant	Phoenix_Dawn	071.jpg	Spiritcaller	Spirit		12
+Boar	Phoenix_Dawn	072.jpg	Spiritcaller	Spirit		4
+Tree Sprites	Phoenix_Dawn	073.jpg	Spiritcaller	Spirit		4
+Fireflies	Phoenix_Dawn	074.jpg	Spiritcaller	Spirit		2
+Sulfur Vent Snail	Phoenix_Dawn	075.jpg	Spiritcaller	Spirit		2
+Firebird	Phoenix_Dawn	076.jpg	Spiritcaller	Spirit		3
+Unicorn	Phoenix_Dawn	077.jpg	Spiritcaller	Spirit		8
+Wyvern	Phoenix_Dawn	078.jpg	Spiritcaller	Spirit		6
+Flame Newt	Phoenix_Dawn	079.jpg	Spiritcaller	Spirit		2
+Scouting Crow	Phoenix_Dawn	080.jpg	Spiritcaller	Spirit		3
+Flood	Phoenix_Dawn	081.jpg	Spiritcaller	Spirit		
+Purifying Waters	Phoenix_Dawn	082.jpg	Spiritcaller	Spirit		
+Earthquake	Phoenix_Dawn	083.jpg	Spiritcaller	Spirit		
+Circle of Life	Phoenix_Dawn	084.jpg	Spiritcaller	Spirit		
+Eruption	Phoenix_Dawn	085.jpg	Spiritcaller	Spirit		
+Cumbersome Cannon	Phoenix_Dawn	086.jpg	Spiritcaller	Spirit		
+Prayers to the Land	Phoenix_Dawn	087.jpg	Spiritcaller	Tech		
+Shadowshift	Phoenix_Dawn	088.jpg	Ninja	Item	Shadowseal 	
+Shadowspear	Phoenix_Dawn	089.jpg	Ninja	Item	Shadowseal 	
+Frontline Scouting	Phoenix_Dawn	090.jpg	Ninja	Item	Shadowseal 	
+Armed Ferret	Phoenix_Dawn	091.jpg	Ninja	Summ	Shadowseal 	5
+Shadowflight Nightowl	Phoenix_Dawn	092.jpg	Ninja	Summ	Shadowseal 	2
+Poison Frog	Phoenix_Dawn	093.jpg	Ninja	Summ	Shadowseal 	3
+Shadowstep Direwolf	Phoenix_Dawn	094.jpg	Ninja	Summ	Shadowseal 	2
+Hastiness	Phoenix_Dawn	095.jpg	Ninja	Item	Shadowseal 	
+Shadowcontrol Batswarm	Phoenix_Dawn	096.jpg	Ninja	Summ	Shadowseal 	2
+Nightvision	Phoenix_Dawn	097.jpg	Ninja	Item	Shadowseal 	
+Summon Scroll	Phoenix_Dawn	098.jpg	Ninja	Item		
+Shadowseal	Phoenix_Dawn	099.jpg	Ninja	Item	Shadowseal 	
+Trading Information	Phoenix_Dawn	100.jpg	Ninja	item		
+Participant	Phoenix_Dawn	101.jpg	Generic	Entrant		45
+Wanderer	Phoenix_Dawn	102.jpg	Generic	Summ		2
