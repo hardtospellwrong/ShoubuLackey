@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>181227</lastupdateYYMMDD>
+<lastupdateYYMMDD>181228</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/updatelist.txt</updateurl>
-<message>12-27-2018: More caster art, summon scroll wording fix</message>
+<message>12-28-2018: More caster art, fixed ninja typos</message>
 
 </version>
