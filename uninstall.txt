@@ -1,4 +1,5 @@
 <uninstall>
 <dateYYMMDD>190108</dateYYMMDD>
 <removepath>sets/setimages/phoenix_dawn/</removepath>
+<removepath>sets/setimages/phoenix_dawn/</removepath>
 </uninstall>
