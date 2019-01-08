@@ -1,13 +1,15 @@
 Name	Set	ImageFile	Card Color	Type	Archetype	Life
+RedToken	Tokens	RTK.png				
+BlueToken	Tokens	BTK.png				
+Fighter	Phoenix_Dawn	001.jpg	Fighter	Entrant		40
 Caster	Phoenix_Dawn	002.jpg	Caster	Entrant		40
-Spiritcaller	Phoenix_Dawn	003.jpg	Spiritcaller	Entrant		40
 Ninja	Phoenix_Dawn	004.jpg	Ninja	Entrant		40
 Smoke Grenade	Phoenix_Dawn	005.jpg	Ninja	Item	Shadowseal	
 Block	Phoenix_Dawn	006.jpg	Generic	Resp	First Form	
 Punch	Phoenix_Dawn	007.jpg	Generic	Tech	First Form	
 Dash	Phoenix_Dawn	008.jpg	Generic	Tech	First Form	
 Trenched Tortoise	Phoenix_Dawn	009.jpg	Generic	Summ	Mage's Familiar	15
-Kunai	Phoenix_Dawn	010.jpg	Generic	Resp	Shadowseal Preparation	
+Kunai	Phoenix_Dawn	010.jpg	Generic	Resp	Shadowseal	
 Basic Slime	Phoenix_Dawn	011.jpg	Generic	Summ	Slime	1
 Mine	Phoenix_Dawn	012.jpg	Generic	Item		
 Tripwire	Phoenix_Dawn	013.jpg	Generic	Item		
