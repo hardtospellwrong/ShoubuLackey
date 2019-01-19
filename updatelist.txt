@@ -1,9 +1,9 @@
-Shoubu	01-09-19
+Shoubu	01-19-19
 plugins/shoubu/plugininfo.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/plugininfo.txt	318894
 plugins/shoubu/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/cardback.jpg	-77718
 plugins/shoubu/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/Spawned.jpg	9544
 plugins/shoubu/sets/carddata.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/CardData.txt	493738
-plugins/shoubu/version.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/version.txt	33264
-plugins/shoubu/uninstall.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/uninstall.txt	9916
+plugins/shoubu/version.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/version.txt	35825
+plugins/shoubu/uninstall.txt	https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/uninstall.txt	15208
 CardGeneralURLs:
 https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/cardimages/
