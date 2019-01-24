@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>190119</lastupdateYYMMDD>
+<lastupdateYYMMDD>190123</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/updatelist.txt</updateurl>
-<message>01-08-2019: Typo fixes, more art, caster/ninja adjustments, card format retool</message>
+<message>01-23-2019: Small Fix</message>
 
 </version>
