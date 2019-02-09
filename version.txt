@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>190203</lastupdateYYMMDD>
+<lastupdateYYMMDD>190209</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/updatelist.txt</updateurl>
-<message>2-3-2019: Participant LIFE to 25</message>
+<message>2-9-2019: Format adjustment, card text fixes</message>
 
 </version>
