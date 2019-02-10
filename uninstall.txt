@@ -1,0 +1,6 @@
+<uninstall>
+<dateYYMMDD>190210</dateYYMMDD>
+<removepath>sets/setimages/phoenix_dawn/</removepath>
+<removepath>sets/setimages/Tokens/</removepath>
+<removepath>sets/setimages/Tokens/</removepath>
+</uninstall>
