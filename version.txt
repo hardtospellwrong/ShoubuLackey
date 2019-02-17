@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>190210</lastupdateYYMMDD>
+<lastupdateYYMMDD>190217</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/hardtospellwrong/ShoubuLackey/master/updatelist.txt</updateurl>
-<message>2-10-2019: Spiritcaller Fixes</message>
+<message>2-17-2019: Spiritcaller Fixes</message>
 
 </version>
